@@ -1,3 +1,11 @@
+# Forked version of [Action Remove Labels](https://github.com/actions-ecosystem/action-remove-labels) with Node 16
+
+Since Github is going to [migrate Node 16](https://github.blog/changelog/2022-09-22-github-actions-all-actions-will-begin-running-on-node16-instead-of-node12/), we need to bump the Node version for the repo. Although there is a [PR](https://github.com/actions-ecosystem/action-remove-labels/pull/418), it has not been merged yet.
+
+Therefore, forked the repo and updated to Node 16.
+
+=============================================================
+
 # Action Remove Labels
 
 [![actions-workflow-test][actions-workflow-test-badge]][actions-workflow-test]
